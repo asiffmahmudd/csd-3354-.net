@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<testData>
+	<NeuterPet>
+		<Gender>Female</Gender>
+		<Name>cathy</Name>
+		<ExpectedResult>false</ExpectedResult>
+	</NeuterPet>
+	<NeuterPet>
+		<Gender>M</Gender>
+		<Name>bruno</Name>
+		<ExpectedResult>true</ExpectedResult>
+	</NeuterPet>
+	<NeuterPet>
+		<Gender>M</Gender>
+		<Name>Toffee</Name>
+		<ExpectedResult>true</ExpectedResult>
+	</NeuterPet>
+</testData>
