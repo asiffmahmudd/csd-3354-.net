@@ -1,0 +1,140 @@
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\roslyn\csc.exe
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\roslyn\System.Collections.Immutable.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\roslyn\vbc.exe
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\roslyn\VBCSCompiler.exe
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\roslyn\VBCSCompiler.exe.config
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\PetStore.dll.config
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\PetStore.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\PetStore.pdb
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Antlr3.Runtime.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\EntityFramework.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\EntityFramework.SqlServer.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Security.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Security.Google.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Newtonsoft.Json.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Owin.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\System.Web.Helpers.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\System.Web.Mvc.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\System.Web.Optimization.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\System.Web.Razor.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\System.Web.WebPages.Deployment.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\System.Web.WebPages.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\System.Web.WebPages.Razor.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\WebGrease.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\System.Web.Helpers.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\System.Web.Mvc.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\System.Web.Optimization.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\System.Web.Razor.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\System.Web.WebPages.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\System.Web.WebPages.Deployment.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\System.Web.WebPages.Razor.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Antlr3.Runtime.pdb
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Newtonsoft.Json.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\EntityFramework.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\EntityFramework.SqlServer.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Security.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Security.Google.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\obj\Debug\PetStore.csprojResolveAssemblyReference.cache
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\obj\Debug\PetStore.dll
+c:\users\c0781971\documents\visual studio 2015\Projects\PetStore\PetStore\obj\Debug\PetStore.pdb
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\roslyn\csc.exe
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\roslyn\System.Collections.Immutable.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\roslyn\vbc.exe
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\roslyn\VBCSCompiler.exe
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\roslyn\VBCSCompiler.exe.config
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\PetStore.dll.config
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\PetStore.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\PetStore.pdb
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Antlr3.Runtime.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\EntityFramework.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\EntityFramework.SqlServer.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Security.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Security.Google.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Newtonsoft.Json.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Owin.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\System.Web.Helpers.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\System.Web.Mvc.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\System.Web.Optimization.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\System.Web.Razor.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\System.Web.WebPages.Deployment.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\System.Web.WebPages.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\System.Web.WebPages.Razor.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\WebGrease.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\System.Web.Helpers.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\System.Web.Mvc.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\System.Web.Optimization.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\System.Web.Razor.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\System.Web.WebPages.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\System.Web.WebPages.Deployment.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\System.Web.WebPages.Razor.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Antlr3.Runtime.pdb
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Newtonsoft.Json.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\EntityFramework.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\EntityFramework.SqlServer.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Security.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Security.Google.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\obj\Debug\PetStore.csproj.AssemblyReference.cache
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\obj\Debug\PetStore.csproj.CoreCompileInputs.cache
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\obj\Debug\PetStore.csproj.CopyComplete
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\obj\Debug\PetStore.dll
+D:\Lambton\Term-3\CSD-3354-.net\Exercise Solutions\Week2-ExerciseSolution\PetStore\PetStore\obj\Debug\PetStore.pdb
