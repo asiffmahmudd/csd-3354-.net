@@ -12,14 +12,14 @@ namespace PetStore.Models
     // You can add profile data for the user by adding more properties to your ApplicationUser class, please visit https://go.microsoft.com/fwlink/?LinkID=317594 to learn more.
     public class ApplicationUser : IdentityUser
     {
-        public List<Pet> Pets { get; set; }
+        public Collection<Pet> Pets { get; set; }
         public DateTime DateofBirth { get; set; }
         public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<ApplicationUser> manager)
         {
             // Note the authenticationType must match the one defined in CookieAuthenticationOptions.AuthenticationType
             var userIdentity = await manager.CreateIdentityAsync(this, DefaultAuthenticationTypes.ApplicationCookie);
             // Add custom user claims here
-            userIdentity.AddClaim(new Claim(ClaimTypes.DateOfBirth, this.DateofBirth.ToString("yyyy-mm-dd")));
+            userIdentity.AddClaim(new Claim(ClaimTypes.DateOfBirth, this.DateofBirth.ToString()));
             return userIdentity;
         }
     }

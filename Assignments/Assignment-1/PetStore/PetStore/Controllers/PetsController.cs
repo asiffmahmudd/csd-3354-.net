@@ -10,7 +10,6 @@ using PetStore.Models;
 
 namespace PetStore.Controllers
 {
-    [Authorize(Roles = "Admin")]
     public class PetsController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
