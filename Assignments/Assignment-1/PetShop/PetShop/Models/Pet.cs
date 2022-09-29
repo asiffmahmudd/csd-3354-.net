@@ -11,7 +11,7 @@ namespace PetShop.Models
         public string Name { get; set; }
         public bool IsMale { get; set; }
         public string Breed { get; set; }
-        public ApplicationUser Owner { get; set; }
+        public virtual ApplicationUser Owner { get; set; }
 
     }
 }

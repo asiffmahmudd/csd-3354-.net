@@ -9,7 +9,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{CC205E98-9A1F-4689-8177-168B80383975}</ProjectGuid>
+    <ProjectGuid>{B2C535F7-2E53-4ED8-A66F-7A1C0831E794}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -19,7 +19,7 @@
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
-    <IISExpressSSLPort>44361</IISExpressSSLPort>
+    <IISExpressSSLPort>44323</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
@@ -171,11 +171,12 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
-    <Compile Include="Data\DataInitializer.cs" />
+    <Compile Include="Controllers\PetsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\DataInitializer.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Pet.cs" />
@@ -243,11 +244,8 @@
     <Content Include="Views\Pets\Details.cshtml" />
     <Content Include="Views\Pets\Edit.cshtml" />
     <Content Include="Views\Pets\Index.cshtml" />
-    <Content Include="Views\Pets1\Create.cshtml" />
-    <Content Include="Views\Pets1\Delete.cshtml" />
-    <Content Include="Views\Pets1\Details.cshtml" />
-    <Content Include="Views\Pets1\Edit.cshtml" />
-    <Content Include="Views\Pets1\Index.cshtml" />
+    <Content Include="Views\Pets\Adopt.cshtml" />
+    <Content Include="Views\Pets\MyPets.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -281,9 +279,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>56122</DevelopmentServerPort>
+          <DevelopmentServerPort>55726</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>https://localhost:44361/</IISUrl>
+          <IISUrl>https://localhost:44323/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
